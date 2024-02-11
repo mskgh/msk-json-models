@@ -1,0 +1,66 @@
+[
+    {
+        "Id": "1",
+        "Name": "Add Shop",
+        "Description": "Allow User To Create New Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "2",
+        "Name": "Delete Shop",
+        "Description": "Allow User To Delete Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "3",
+        "Name": "Update Shop",
+        "Description": "Allow User To Update Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "4",
+        "Name": "List Shop",
+        "Description": "Allow User To Get All Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "5",
+        "Name": "Add Item To Shop",
+        "Description": "Allow User To Add Items To Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "6",
+        "Name": "Delete Item From Shop",
+        "Description": "Allow User to Delete Items From Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "7",
+        "Name": "Update Items In Shop",
+        "Description": "Allow User To Update Items In Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "8",
+        "Name": "List Items In Shop",
+        "Description": "Allow User To Get All Items In Shop",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Id": "",
+        "TernantId1": "",
+        "TernantId2": "",
+        "UserId": "",
+        "LogInRolesBranch": {
+                "RoleId": "",
+                "ResourceId": "ID / all eg, Users/all Users/204a4d33-97f7-4b01-b263-1f1b25adbfbe, Warehouse/204a4d33-97f7-4b01-b263-1f1b25adbfbe",
+                "LogInDate": "",
+                "LogInTime": "",
+                "LogOutDate": "",
+                "LogOutTime": "",
+                "Description": ""
+        },
+        "IsDeleted": "",
+        "IsPendingDelete": "",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    }
+]

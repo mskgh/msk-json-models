@@ -1,0 +1,18 @@
+[
+    {
+        "Id": "",
+        "TernantId1": "",
+        "TernantId2": "",
+        "Subscription": {
+            "Id": "", 
+            "StartDate": "", 
+            "ExpiredDate": "", 
+            "Status": ""
+        },
+        "IsDeleted": "",
+        "IsPendingDelete": "",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    }
+]

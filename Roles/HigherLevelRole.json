@@ -1,0 +1,34 @@
+[
+    {
+        "Id": "",
+        "Name": "Owner",
+        "Description": "Can Do Anything In The System",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "",
+        "Name": "Super Admin",
+        "Description": "Can Do anything Except Deletion Of Logs",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "",
+        "Name": "Admin",
+        "Description": "Can Do Anything Except Managing Users, Billing And Deletion Of Logs",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    },
+    {
+        "Id": "",
+        "Name": "Viewer",
+        "Description": "Allow User To View Anything But Cannot Update, Delete or Add Anything",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    }
+]

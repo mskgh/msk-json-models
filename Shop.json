@@ -1,0 +1,18 @@
+[
+    {
+        "Id": "",
+        "TernantId1": "",
+        "TernantId2": "",
+        "BusinessId": "",
+        "Name": "",
+        "Description": "",
+        "LocationId": "",
+        "MaxItem": 0,
+        "MinItem": 0,
+        "IsDeleted": "",
+        "IsPendingDelete": "",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "Id": "",
+        "TernantId1": "",
+        "TernantId2": "",
+        "ShopId": "",
+        "WarehouseId": "",
+        "Name": "",
+        "Size": "",
+        "Quantity": "",
+        "MinQtyAlert": 0,
+        "CostPrice": "",
+        "SellingPrice": "",
+        "CostPriceTotal": "",
+        "SellingPriceTotal": "",
+        "Profit": "",
+        "Description": "",
+        "Tags": [
+            "tag1",
+            "tag2"
+        ],
+        "Labels": [
+            "label1",
+            "label2"
+        ],
+        "Categories": [
+            "category1",
+            "category2"
+        ],
+        "IsDeleted": "",
+        "IsPendingDelete": "",
+        "Date": "",
+        "Time": "",
+        "DateTime": ""
+    }
+]
