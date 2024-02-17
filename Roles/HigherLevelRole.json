@@ -3,32 +3,32 @@
         "Id": "",
         "Name": "Owner",
         "Description": "Can Do Anything In The System",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "",
         "Name": "Super Admin",
         "Description": "Can Do anything Except Deletion Of Logs",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "",
         "Name": "Admin",
         "Description": "Can Do Anything Except Managing Users, Billing And Deletion Of Logs",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "",
         "Name": "Viewer",
-        "Description": "Allow User To View Anything But Cannot Update, Delete or Add Anything",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "Description": "Allow User To View Anything But Cannot UpCustomDate, Delete or Add Anything",
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     }
 ]

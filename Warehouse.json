@@ -11,8 +11,8 @@
         "MinItem": 0,
         "IsDeleted": "",
         "IsPendingDelete": "",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     }
 ]

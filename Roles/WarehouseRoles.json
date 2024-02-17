@@ -3,64 +3,64 @@
         "Id": "1",
         "Name": "Add Warehouse",
         "Description": "Allow User To Create New Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "2",
         "Name": "Delete Warehouse",
         "Description": "Allow User To Delete Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "3",
-        "Name": "Update Warehouse",
-        "Description": "Allow User To Update Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "Name": "UpCustomDate Warehouse",
+        "Description": "Allow User To UpCustomDate Warehouse",
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "4",
         "Name": "List Warehouse",
         "Description": "Allow User To Get All Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "5",
         "Name": "Add Item To Warehouse",
         "Description": "Allow User To Add Items To Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "6",
         "Name": "Delete Item From Warehouse",
         "Description": "Allow User to Delete Items From Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "7",
-        "Name": "Update Items In Warehouse",
-        "Description": "Allow User To Update Items In Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "Name": "UpCustomDate Items In Warehouse",
+        "Description": "Allow User To UpCustomDate Items In Warehouse",
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     },
     {
         "Id": "8",
         "Name": "List Items In Warehouse",
         "Description": "Allow User To Get All Items In Warehouse",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     }
 ]

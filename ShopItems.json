@@ -29,8 +29,8 @@
         ],
         "IsDeleted": "",
         "IsPendingDelete": "",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     }
 ]

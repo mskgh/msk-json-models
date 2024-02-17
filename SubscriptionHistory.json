@@ -5,14 +5,14 @@
         "TernantId2": "",
         "Subscription": {
             "Id": "", 
-            "StartDate": "", 
-            "ExpiredDate": "", 
+            "StartCustomDate": "", 
+            "ExpiredCustomDate": "", 
             "Status": ""
         },
         "IsDeleted": "",
         "IsPendingDelete": "",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     }
 ]

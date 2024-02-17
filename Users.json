@@ -16,64 +16,64 @@
             {
                 "Id": "", 
                 "Day": "Monday",
-                "LogInDate": "",
-                "LogInTime": "",
-                "LogOutTime": "",
-                "LogOutDate": "",
+                "LogInCustomDate": "",
+                "LogInCustomTime": "",
+                "LogOutCustomTime": "",
+                "LogOutCustomDate": "",
                 "Status": "Active / Suspended"
             },
             {
                 "Id": "", 
                 "Day": "Teusday",
-                "LogInDate": "",
-                "LogInTime": "",
-                "LogOutTime": "",
-                "LogOutDate": "",
+                "LogInCustomDate": "",
+                "LogInCustomTime": "",
+                "LogOutCustomTime": "",
+                "LogOutCustomDate": "",
                 "Status": "Active / Suspended"
             },
             {
                 "Id": "", 
                 "Day": "Wednesday",
-                "LogInDate": "",
-                "LogInTime": "",
-                "LogOutTime": "",
-                "LogOutDate": "",
+                "LogInCustomDate": "",
+                "LogInCustomTime": "",
+                "LogOutCustomTime": "",
+                "LogOutCustomDate": "",
                 "Status": "Active / Suspended"
             },
             {
                 "Id": "", 
                 "Day": "Thursday",
-                "LogInDate": "",
-                "LogInTime": "",
-                "LogOutTime": "",
-                "LogOutDate": "",
+                "LogInCustomDate": "",
+                "LogInCustomTime": "",
+                "LogOutCustomTime": "",
+                "LogOutCustomDate": "",
                 "Status": "Active / Suspended"
             },
             {
                 "Id": "", 
                 "Day": "Friday",
-                "LogInDate": "",
-                "LogInTime": "",
-                "LogOutTime": "",
-                "LogOutDate": "",
+                "LogInCustomDate": "",
+                "LogInCustomTime": "",
+                "LogOutCustomTime": "",
+                "LogOutCustomDate": "",
                 "Status": "Active / Suspended"
             },
             {
                 "Id": "", 
                 "Day": "Saturday",
-                "LogInDate": "",
-                "LogInTime": "",
-                "LogOutTime": "",
-                "LogOutDate": "",
+                "LogInCustomDate": "",
+                "LogInCustomTime": "",
+                "LogOutCustomTime": "",
+                "LogOutCustomDate": "",
                 "Status": "Active / Suspended"
             },
             {
                 "Id": "", 
                 "Day": "Sunday",
-                "LogInDate": "",
-                "LogInTime": "",
-                "LogOutTime": "",
-                "LogOutDate": "",
+                "LogInCustomDate": "",
+                "LogInCustomTime": "",
+                "LogOutCustomTime": "",
+                "LogOutCustomDate": "",
                 "Status": "Active / Suspended"
             }
         ],
@@ -81,8 +81,8 @@
         "IsEnabledMultiFactor": "true / false",
         "IsDeleted": "",
         "IsPendingDelete": "",
-        "Date": "",
-        "Time": "",
-        "DateTime": ""
+        "CustomDate": "",
+        "CustomTime": "",
+        "CustomCustomDateCustomTime": ""
     }
 ]
